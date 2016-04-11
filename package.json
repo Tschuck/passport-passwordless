@@ -1,0 +1,19 @@
+{
+  "name": "passport-passwordless",
+  "version": "0.0.1",
+  "description": "Passport module for the passwordless library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tobias.winkler@outlook.de",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^3.0.0",
+    "crypto": "0.0.3",
+    "passport-strategy": "^1.0.0",
+    "passwordless": "^1.1.1",
+    "passwordless-tokenstore": "0.0.10",
+    "underscore": "^1.8.3"
+  }
+}
