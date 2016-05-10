@@ -1,6 +1,6 @@
 {
   "name": "passport-passwordless",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Passport module for the passwordless library.",
   "main": "index.js",
   "scripts": {
